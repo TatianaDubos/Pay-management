@@ -1,2 +1,2 @@
-# Pay-management
-Java application to manage pays for employees.
+# Payroll-management
+Java application to manage the employee wages.
